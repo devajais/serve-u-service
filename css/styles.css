@@ -1,0 +1,66 @@
+#title{
+
+    padding: 3% 15%;
+  background-color: #035397;
+  color: #fff;
+}
+
+h1{
+  font-family: 'Overpass', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding-bottom: 7%;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  padding-right: 40%;
+  font-family: 'Caveat', cursive;
+font-weight: bold;
+font-size: 2.05rem;
+}
+.nav-item{
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#index-community{
+  padding: 3% 15%;
+  color: #035397;
+  font-family: 'Overpass', sans-serif;
+}
+h3{
+  padding-top: 2px;
+}
+
+
+.buysell {
+  float: left;
+  margin-right: 20px;
+}
+
+.consult {
+  float: right;
+  margin-left: 20px;
+}
+
+.skill-heading {
+  padding-top: 40px;
+}
+#index-about{
+
+    padding: 3% 15%;
+  background-color: #035397;
+  color: #fff;
+}
+.profileimage{
+  padding-bottom: 30px;
+}
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(1.06); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
